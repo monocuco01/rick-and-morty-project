@@ -1,0 +1,125 @@
+.holi {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  background: rgb(39, 43, 51);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.container1 {
+  display: flex;
+}
+
+.imagen1 {
+  height: 380px;
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 100px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5),
+    -2px -2px 4px rgba(255, 255, 255, 0.5);
+}
+
+.containercartass {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  text-align: left;
+  margin-left: 800px;
+  margin-top: 200px;
+}
+
+.arrozconleche {
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 800px;
+  font-size: 25px;
+  color: white;
+}
+.arrozconleche h2 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5),
+    -2px -2px 4px rgba(255, 255, 255, 0.5);
+}
+
+.arroepollo {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  width: 500px;
+  display: flex;
+}
+.arroestaus {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  width: 500px;
+  margin-top: 60px;
+  display: flex;
+}
+
+.arrodecamaron {
+  color: rgb(255, 255, 255);
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  width: 500px;
+  margin-top: 120px;
+  display: flex;
+}
+
+.arrodeyuca {
+  color: rgb(253, 255, 254);
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 800;
+  width: 500px;
+  position: absolute;
+  margin-top: 240px;
+  display: flex;
+}
+.arroequeso {
+  color: rgb(255, 255, 255);
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  width: 500px;
+  margin-top: 180px;
+  display: flex;
+}
+
+.containercartass p {
+  margin-left: 4px;
+  font-weight: 500;
+}
+
+.containercartass a {
+  color: rgb(177, 175, 175);
+
+  cursor: text;
+}
+
+.homesa {
+  width: 100%;
+  position: absolute;
+  height: 60px;
+  align-items: center;
+  display: flex;
+  background: rgb(60, 62, 68);
+}
+.homes {
+  margin-left: 20px;
+  border-radius: 0.5rem;
+  padding: 0.5rem 00.5rem;
+  border: 1px solid #1db954;
+  background: transparent;
+  color: white;
+}
+
+.homes:hover {
+  background-color: #1db954;
+  color: white;
+}

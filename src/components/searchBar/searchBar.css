@@ -1,0 +1,24 @@
+.search-input {
+  height: 35px;
+  border: 1px solid #1db954;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  background: rgb(60, 62, 68);
+  color: white;
+}
+
+.search-button {
+  border-radius: 0.5rem;
+  font-weight: 600;
+  border: 1px solid #1db954;
+  background-color: #1db954;
+  height: 35px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-right: 20px;
+}
+
+.search-button:hover {
+  background-color: #1db954;
+  color: white;
+}

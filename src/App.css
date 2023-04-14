@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.arrozconmango {
+  display: flex;
+  position: absolute;
+  margin-left: 1080px;
+}
+.arroconqueso {
+  display: flex;
+  justify-content: center; /* centra horizontalmente el contenido */
+  align-items: center; /* centra verticalmente el contenido */
+  position: absolute;
+  margin-left: 20px;
+
+  border-radius: 0.5rem;
+  font-weight: 600;
+  border: 1px solid #13b14ad3;
+  background-color: #13b14ad3;
+  height: 35px;
+}
+
+.arroconqueso:hover {
+  background-color: #13b14ad3;
+  color: white;
+}
+.metele {
+  width: 100%;
+  position: absolute;
+  height: 60px;
+  align-items: center;
+  display: flex;
+  background: rgb(60, 62, 68);
+}
